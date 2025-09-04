@@ -8,5 +8,7 @@ dependencies = [
     "beautifulsoup4",
     "requests",
     "google-generativeai",
-    "schedule"
+    "schedule",
+    "selenium",
+    "python-dotenv",
 ]
